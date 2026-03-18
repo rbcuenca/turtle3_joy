@@ -44,7 +44,8 @@ cp start_joy.sh ~/colcon_ws/
 cd ~/colcon_ws
 chmod +x start_joy.sh
 ```
-## agora é só ir ao diretório ~/colcon_ws e executar o start_joy.sh ou executar ele de onde estiver com o comando abaixo:
+## agora é só ir ao diretório ~/colcon_ws e executar o start_joy.sh ou no home e execute o comando abaixo:
 ```
+cd
 ./colcon_ws/start_joy.sh
 ```
