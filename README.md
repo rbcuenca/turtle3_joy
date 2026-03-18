@@ -38,7 +38,8 @@ jstest /dev/input/js0
 ```
 
 ## Para subir os nós necessários, copie os arquivos config.yaml e start_joy.sh para dentro do ~/colcon_ws e dê permissão de execução para o start_joy.sh.
-```cp config.yaml ~/colcon_ws/
+```
+cp config.yaml ~/colcon_ws/
 cp start_joy.sh ~/colcon_ws/
 cd ~/colcon_ws
 chmod +x start_joy.sh
